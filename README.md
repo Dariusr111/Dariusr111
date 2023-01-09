@@ -41,7 +41,4 @@
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 
-<!-- <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Liquid" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify-liquid/liquid-plain.svg" /></a> -->
-<br/>
 
-#
