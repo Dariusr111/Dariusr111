@@ -6,9 +6,9 @@
 
 ### 🧰 Languages and Tools
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding: 10px 0 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="VSCode" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding: 10px 0 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding: 10px 0 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
