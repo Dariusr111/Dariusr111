@@ -6,7 +6,6 @@
 
 ### 🧰 Languages and Tools
 
-
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
@@ -30,8 +29,6 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
 
 <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"><img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></a>
-
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
 
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
 
