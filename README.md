@@ -1,5 +1,3 @@
-![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
-
 # 🎯 Dariusr111
 
 **`Fullstack Developer`**
