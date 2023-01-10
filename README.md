@@ -1,4 +1,4 @@
-# 🔋💯🚀🤙 Dariusr111
+# 🔋💯🚀👍 Dariusr111
 
 **`JR Fullstack Developer`**
 
