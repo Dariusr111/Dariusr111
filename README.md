@@ -34,6 +34,8 @@
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank" rel="noreferrer"><img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
 
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" /></a>
+
 <a href="https://java.com/" target="_blank" rel="noreferrer"><img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>
