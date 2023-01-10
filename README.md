@@ -22,10 +22,6 @@
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"><img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img align="left" alt="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
 
 <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"><img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></a>
